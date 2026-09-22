@@ -1,0 +1,11 @@
+name,city,cuisine,rating,seats,delivery
+Casa Marbella,Barcelona,Spanish,4.5,40,True
+Noodle House,Barcelona,Asian,4.1,25,True
+Le Petit Bistro,Barcelona,French,4.7,30,False
+Bella Napoli,Madrid,Italian,4.0,50,True
+Sushi Zen,Madrid,Asian,4.6,35,False
+Taco Fiesta,Madrid,Mexican,3.9,45,True
+Curry Point,Valencia,Indian,4.2,30,True
+Ocean Breeze,Valencia,Seafood,4.5,55,False
+El Asador,Seville,Spanish,4.6,50,False
+Vegan Garden,Seville,Vegetarian,4.4,25,True
